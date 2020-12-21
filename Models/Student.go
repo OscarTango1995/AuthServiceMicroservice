@@ -5,5 +5,5 @@ type Student struct {
 	name string
 	semester int
 	department string
-	current_grade string
+	grade string
 }
